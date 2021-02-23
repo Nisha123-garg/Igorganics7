@@ -1,0 +1,421 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.div1
+{
+    border: 2px solid black;
+}
+.logo img
+{
+    padding-top: 20px;
+}
+.menu-list ul li 
+{
+    margin: 0px 4px;
+}
+.menu-list ul li a
+{
+    color: black !important;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.menu-list ul li a:hover
+{
+    color: #ee308f !important;
+}
+.menu-list .active a
+{
+    color: #ee308f !important;
+}
+.menu-button a
+{
+    background-color: #ee308f;
+    border-radius: 18px;
+    padding: 4px 14px;
+    color: white !important;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 8px;
+}
+.menu-button a:hover
+{
+    text-decoration: none;
+}
+.banner-content h1
+{
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+#banner
+{
+    background: linear-gradient(to top, #ea3091,#c137ad,#9b3cc8,#6644ec);
+    padding: 40px 0px;
+}
+.ppc-company
+{
+    padding: 30px 0px;
+}
+.best-company
+{
+    box-shadow: 0 4px 8px 0;
+    padding: 20px;
+}
+.comapany-heading h5
+{
+    color: white;
+    font-size: 30px;
+    text-align: center;   
+    padding: 20px 35px;
+    font-weight: bold;  
+    text-align: center;
+    background-color: #6544ec;
+    border-radius: 15px;
+    width: 100%;    
+}
+
+.comapany-content h6
+{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+#services-offer
+{
+    padding: 30px 0px;
+}
+.services-heading h2
+{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.services-heading h2 span
+{
+    color: #ee308f;
+}
+.services
+{
+    padding: 20px;
+}
+.services h2
+{
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+}
+.services p
+{
+    font-size: 20px;
+    text-align: justify;
+    padding-top: 10px;
+}
+.pricing-box
+{   
+    width: 100%;
+    box-shadow: 0 4px 8px 0;
+    padding: 10px 30px;
+    border-radius: 30px;  
+}
+.pricing-heading h3
+{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.pricing-heading
+{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.pricing-heading h3 span
+{
+    color: #ee308f !important;
+}
+.pricing-data p
+{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+}
+.pricing-data a
+{
+    color: #ee308f  !important;
+    text-align: center !important;
+    font-size: 36px;
+}
+.pricing-data a:hover
+{
+    text-decoration: none;
+}
+.pricing-list ul 
+{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.pricing-list ul li 
+{
+    font-size: 14px !important;
+    color: #767676;
+}
+.pricing-list ul li a
+{
+    color: #ee308f !important;
+    font-size: 14px !important;
+}
+.list-button a
+{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #ee308f;
+    padding: 7px 13px;
+    border-radius: 13px;
+}
+.list-button a:hover
+{
+    text-decoration: none;
+}
+.customized-package
+{
+    width: 100%;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0;
+    margin:60px 0px;
+    padding: 10px 40px;
+}
+.customized-package p
+{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+}
+.customer-img a img
+{
+    color: #ee308f !important;
+    text-align: center !important;    
+}
+.form-group  input 
+{
+    width: 25% !important;
+    font-size: 14px;
+    margin-top: 5px;
+    display: inline-block;
+}
+input[type=checkbox]
+{
+    margin: 20px 0px 0px 10px;  
+    display: inline-block;
+    padding-top: 5px;
+}
+.form label
+{
+    display: inline-block;
+}
+.packages-footer-data a
+{
+    background-color:#ee308f;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 6px 15px;
+}
+.packages-footer-data a:hover
+{
+    text-decoration: none;    
+}
+.price-form 
+{
+    text-align: right;
+}
+.price-form  input
+{
+    width: 25% !important;
+}
+.footer-menu
+{
+    background-color: #ee308f;
+}
+
+.footer_menu_list a
+{
+    display: inline-block;
+    margin:0px 30px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    list-style-type: none;
+   text-decoration: none;   
+   text-align: center;
+}
+.footer_menu_list  a:hover
+{
+    text-decoration: none;
+}
+.copyright
+{
+    background-color: #a22061;
+}
+.copyright p
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) 
+{
+    .comapany-heading h5
+    {     
+        font-size: 20px;          
+    }
+    .comapany-content h6
+    {       
+        font-size: 16px;
+    }
+    .pricing-box
+    {                
+        margin: 20px 0px;        
+    }
+    .footer_menu_list a
+    {
+        font-size: 14px !important;
+        margin:0px 15px;
+        text-align: left;
+        display: block !important;
+    }
+    #package
+    {
+        padding: 0px 60px;
+    }
+    .services-heading h2
+    {    
+        font-size: 28px;       
+    }
+    .services h2
+    {
+        font-size: 18px; 
+        padding: 0px 10px;      
+    }
+    .services p
+    {
+        font-size: 14px;  
+        padding: 0px 10px;       
+    }
+    .pricing-heading h3
+    {
+        font-size: 30px;
+    }
+    
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+    .comapany-heading h5
+    {     
+        font-size: 20px;          
+    }
+    .comapany-content h6
+    {       
+        font-size: 16px;
+    }
+    .pricing-box
+    {                 
+        margin: 20px 0px;        
+    }
+    .footer_menu_list a
+    {
+        font-size: 14px !important;
+        margin:0px 15px;
+        text-align: left;
+        display: block !important;
+    }
+    .copyright p
+    {
+        font-size: 12px;
+    }
+    .services-heading h2
+    {    
+        font-size: 30px;       
+    }
+    .services h2
+    {
+        font-size: 20px; 
+        padding: 0px 10px;      
+    }
+    .services p
+    {
+        font-size: 16px;  
+        padding: 0px 10px;       
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+    .comapany-heading h5
+    {     
+        font-size: 25px;          
+    }
+    .comapany-content h6
+    {       
+        font-size: 18px;
+    }
+    .pricing-box
+    {                
+        margin: 20px 0px;        
+    }
+    .footer_menu_list a
+    {
+        font-size: 14px;
+        margin:0px 15px;
+    }
+    .services-heading h2
+    {    
+        font-size: 35px;       
+    }
+    .services h2
+    {
+        font-size: 22px;       
+    }
+    .services p
+    {
+        font-size: 18px;      
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+    .footer_menu_list a:nth-child(8)
+    {
+        display: none;
+    }
+    
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) 
+{
+
+}
